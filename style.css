@@ -1,0 +1,34 @@
+
+.color{
+    background-color: black;
+}
+div{
+    border: 1px solid;
+}
+#divi, #equal, #subt, #add, #multi{
+    background-color: orange;
+}
+#AC, #posneg, #percent{
+    background-color:rgb(43, 42, 42);
+
+}
+#zero, #one, #two, #three, #four, #five, #six, #seven, #eight,   #nine, #dot    {
+    background-color: grey;
+}
+
+#sol{
+    width: 100%;
+    height: 20vw;
+    background-color: black;
+    color: white;
+    border: none;
+    text-align: right;
+    font-size: 10vw;
+ 
+
+}
+button{
+  height: 12vw;
+  color: white;
+  font-size: 10vw
+}
